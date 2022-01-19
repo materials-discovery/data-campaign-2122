@@ -24,5 +24,4 @@
  
  
  ### Description:
- 
- 
+> Please give an overview summary of the repository which you can present to the class. 
