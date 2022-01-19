@@ -10,7 +10,7 @@
   - [ ] Molecular Dynamics
   - [ ] Density Functional Theory (DFT)
   - [ ] Coarse Grained Molecular Dynamics
-  - [ ] Continumm 
+  - [ ] Continum
   - [ ] Other
         - if other specify: 
 * Experimental Data: 
@@ -21,7 +21,13 @@
 * where is the data coming from:  
   - [ ] any one can upload data 
   - [ ] provided by repository or platform owners
+* Format of the data:
+  - [ ] Standard formats
+  - [ ] specific formats
  
  
  ### Description:
 > Please give an overview summary of the repository which you can present to the class. 
+
+
+> give informstion about the quality of the data in the repository. Is it validated? would you use it in your mission critical applications as is? Discuss. 
