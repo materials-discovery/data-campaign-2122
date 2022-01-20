@@ -18,10 +18,10 @@
 - http://materialsdatafacility.org
 - http://materialsdesign.com
 - http://materialsproject.org
-- http://mits.nims.go.jp
+- http://mits.nims.go.jp     (TeamZoom3)
 - http://mpds.io
 - http://omdb.mathub.io
-- http://openmaterialsdb.se
+- http://openmaterialsdb.se. (TeamZoom3)
 - http://oqmd.org
 - https://www.ccdc.cam.ac.uk/solutions/csd-core/components/csd/
 - https://icsd.fiz-karlsruhe.de/index.xhtml
