@@ -1,5 +1,5 @@
 # repository/platform
-- https://citrine.io
+- https://citrine.io.         (TeamRoom1)
 - http://crystallography.net. (TeamRoom2)
 - http://exabyte.io
 - http://grantadesign.com.  
@@ -11,7 +11,7 @@
 - https://eosc-portal.eu
 - https://nomad-lab.eu
 - https://www.materialscloud.org
-- https://www.materialssquare.com  
+- https://www.materialssquare.com   (TeamRoom1)
 - https://zenodo.org
 - https://materials.springer.com (TeamRoom2)
 - https://materials.zone
