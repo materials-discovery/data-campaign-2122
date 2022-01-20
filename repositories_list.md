@@ -1,8 +1,8 @@
 # repository/platform
 - https://citrine.io
--http://crystallography.net
+- http://crystallography.net. (TeamRoom2)
 - http://exabyte.io
-- http://grantadesign.com
+- http://grantadesign.com.  
 - http://htem.nrel.gov
 - http://aflowlib.org
 - https://data.mendeley.com
@@ -11,9 +11,9 @@
 - https://eosc-portal.eu
 - https://nomad-lab.eu
 - https://www.materialscloud.org
-- https://www.materialssquare.com
+- https://www.materialssquare.com  
 - https://zenodo.org
-- https://materials.springer.com
+- https://materials.springer.com (TeamRoom2)
 - https://materials.zone
 - http://materialsdatafacility.org
 - http://materialsdesign.com
