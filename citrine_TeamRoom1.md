@@ -3,8 +3,8 @@
 ## Collect and analyse existing materials data repositories and e-science platforms 
 
 ### Template (copy and fill) 
-* website name: 
-* website URL: 
+* website name: **citrine**
+* website URL:  **https://citrine.io/**
 * brief description: 
 * Modelling Data 
   - [ ] Density Functional Theory (DFT)/ Electronic Models
