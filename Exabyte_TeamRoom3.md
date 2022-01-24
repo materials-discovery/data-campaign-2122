@@ -12,7 +12,7 @@
   - [ ] Coarse Grained Molecular Dynamics
   - [ ] Continumm 
   - [X] Other
-        - if other specify:   
+        - if other specify: Hartree-Fock Theory, Quantum Monte Carlo, semi-empirical Quantum Chemistry methods
 * Experimental Data: 
   * Calculate the properties of the material (DFT)
     *  Calculation of electronic structure of materials (such as band gap, band structure, Fermi surface)
