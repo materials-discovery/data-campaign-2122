@@ -7,12 +7,12 @@
 * website URL: https://exabyte.io/
 * brief description: Exabyte.io is a cloud-native digital materials R&D (research and development) platform which is used to design structures, construct workflows,run simulations, analyze data, and build proper models. On this platform data is collected effectively for predicting the properties of materials, and it is convenient for users around the world to achieve an online collaboration.
 * Modelling Data 
-  - [ ] Density Functional Theory (DFT)/ Electronic Models
+  - [X] Density Functional Theory (DFT)/ Electronic Models
   - [X] Molecular Dynamics/Atomistic Simulations
   - [ ] Coarse Grained Molecular Dynamics
   - [ ] Continumm 
-  - [ ] Other
-        - if other specify: ...
+  - [X] Other
+        - if other specify: Hartree-Fock Theory,Quantum Monte Carlo, semi-empirical Quantum Chemistry methods
 * Experimental Data: 
   * Calculate the properties of the material (DFT)
     *  Calculation of electronic structure of materials (such as band gap, band structure, Fermi surface)
