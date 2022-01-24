@@ -18,10 +18,10 @@
     *  ....
 * Access rights: 
   - [ ] Free to all 
-  - [ ] Commercial 
+  - [X] Commercial 
 * where is the data coming from:  
   - [ ] any one can upload data 
-  - [ ] provided by repository or platform owners
+  - [X] provided by repository or platform owners
  
  
  ### Description:
