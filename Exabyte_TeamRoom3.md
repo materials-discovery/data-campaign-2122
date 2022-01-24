@@ -7,12 +7,12 @@
 * website URL: https://exabyte.io/
 * brief description: 
 * Modelling Data 
-  - [ ] Density Functional Theory (DFT)/ Electronic Models
+  - [X] Density Functional Theory (DFT)/ Electronic Models
   - [X] Molecular Dynamics/Atomistic Simulations
   - [ ] Coarse Grained Molecular Dynamics
   - [ ] Continumm 
-  - [ ] Other
-        - if other specify: ...
+  - [X] Other
+        - if other specify:   
 * Experimental Data: 
   * Calculate the properties of the material (DFT)
     *  Calculation of electronic structure of materials (such as band gap, band structure, Fermi surface)
