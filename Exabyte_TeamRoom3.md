@@ -14,8 +14,16 @@
   - [ ] Other
         - if other specify: ...
 * Experimental Data: 
-  * Describe the classes and types of materials covered. 
-    *  ....
+  * Calculate the properties of the material (DFT)
+    *  Calculation of electronic structure of materials (such as band gap, band structure, Fermi surface)
+    *  Calculation of vibrational properties of materials (such as zero energy)
+    *  Calculation of thermodynamic properties of materials (such as surface energy)
+    *  ......
+  * Machine learning of material data 
+    *  Classify and cluster the experimental data
+    *  Predict material properties
+    *  Create a new training model to train data
+    *  ......
 * Access rights: 
   - [ ] Free to all 
   - [ ] Commercial 
