@@ -3,8 +3,8 @@
 ## Collect and analyse existing materials data repositories and e-science platforms 
 
 ### Template (copy and fill) 
-* website name: 
-* website URL: 
+* website name: Exabyte
+* website URL: https://exabyte.io/
 * brief description: 
 * Modelling Data 
   - [ ] Density Functional Theory (DFT)/ Electronic Models
