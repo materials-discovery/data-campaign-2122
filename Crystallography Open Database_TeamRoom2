@@ -5,7 +5,7 @@
 ### Template (copy and fill) 
 * website name: Crystallography Open Database
 * website URL: http://crystallography.net
-* brief description: 
+* brief description: Open-access collection of crystal structures of organic, inorganic, metal-organics compounds and minerals, excluding biopolymers.
 * Modelling Data 
   - [ ] Density Functional Theory (DFT)/ Electronic Models
   - [ ] Molecular Dynamics/Atomistic Simulations
@@ -17,10 +17,10 @@
   * Describe the classes and types of materials covered. 
     *  ....
 * Access rights: 
-  - [ ] Free to all 
+  - [x] Free to all 
   - [ ] Commercial 
 * where is the data coming from:  
-  - [ ] any one can upload data 
+  - [x] any one can upload data 
   - [ ] provided by repository or platform owners
  
  
