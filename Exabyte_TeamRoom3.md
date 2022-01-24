@@ -28,8 +28,8 @@
   - [X] Free to all 
   - [X] Commercial 
 * where is the data coming from:  
-  - [ ] any one can upload data 
-  - [ ] provided by repository or platform owners
+  - [X] any one can upload data 
+  - [X] provided by repository or platform owners
  
  
  ### Description:
