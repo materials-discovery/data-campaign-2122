@@ -5,14 +5,14 @@
 ### Template (copy and fill) 
 * website name: **citrine**
 * website URL:  **https://citrine.io/**
-* brief description: 
+* brief description: *Citrine Informatics* is a software platform that combines domain-specific AI and smart data management infrastructure to accelerate the development and deployment of higher performing, more sustainable materials, chemicals, and manufactured products.
 * Modelling Data 
-  - [ ] Density Functional Theory (DFT)/ Electronic Models
+  - [x] Density Functional Theory (DFT)/ Electronic Models
   - [X] Molecular Dynamics/Atomistic Simulations
   - [ ] Coarse Grained Molecular Dynamics
   - [ ] Continumm 
-  - [ ] Other
-        - if other specify: ...
+  - [x] Other
+        - "single-crystal automated refinement" (SCAR)
 * Experimental Data: 
   * Describe the classes and types of materials covered. 
     *  ....
