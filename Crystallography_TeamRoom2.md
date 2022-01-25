@@ -8,7 +8,7 @@
 * brief description: Open-access collection of crystal structures of organic, inorganic, metal-organics compounds and minerals, excluding biopolymers.
 * Modelling Data 
   - [ ] Density Functional Theory (DFT)/ Electronic Models
-  - [ ] Molecular Dynamics/Atomistic Simulations
+  - [X] Molecular Dynamics/Atomistic Simulations
   - [ ] Coarse Grained Molecular Dynamics
   - [ ] Continumm 
   - [ ] Other
