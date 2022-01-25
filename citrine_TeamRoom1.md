@@ -15,7 +15,11 @@
         - "single-crystal automated refinement" (SCAR)
 * Experimental Data: 
   * Describe the classes and types of materials covered. 
-    *  ....
+    * **functional materials**, such as thermoelectric materials and organic semiconductors
+    * **metals**, such as high strength 3D printed aluminum alloy, nanoparticle colloids and multi-principal element alloys (MPEAs)
+    * **glass**
+    * **plastic**
+    * **high temperature superconductors**  
 * Access rights: 
   - [ ] Free to all 
   - [X] Commercial 
