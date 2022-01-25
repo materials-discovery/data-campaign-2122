@@ -5,7 +5,7 @@
 ### Template (copy and fill) 
 * website name: **citrine**
 * website URL:  **https://citrine.io/**
-* brief description: *Citrine Informatics* is a software platform that combines domain-specific AI and smart data management infrastructure to accelerate the development and deployment of higher performing, more sustainable materials, chemicals, and manufactured products.
+* brief description: **Citrine Platform** is a software platform published by the starup **Citrine Informatics**, which combines domain-specific AI and smart data management infrastructure to accelerate the development and deployment of higher performing, more sustainable materials, chemicals, and manufactured products.
 * Modelling Data 
   - [x] Density Functional Theory (DFT)/ Electronic Models
   - [X] Molecular Dynamics/Atomistic Simulations
