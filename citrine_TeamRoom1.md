@@ -3,7 +3,7 @@
 ## Collect and analyse existing materials data repositories and e-science platforms 
 
 ### Template (copy and fill) 
-* website name: **citrine**
+* website name: **CITRINE INFORMATICS**
 * website URL:  **https://citrine.io/**
 * brief description: **Citrine Platform** is a software platform published by the starup **Citrine Informatics**, which combines domain-specific AI and smart data management infrastructure to accelerate the development and deployment of higher performing, more sustainable materials, chemicals, and manufactured products.
 * Modelling Data 
