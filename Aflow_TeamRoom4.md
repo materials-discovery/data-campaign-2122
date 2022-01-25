@@ -6,7 +6,7 @@
 * brief description: 
 * Modelling Data 
   - [ ] Density Functional Theory (DFT)/ Electronic Models
-  - [X] Molecular Dynamics/Atomistic Simulations
+  - [ ] Molecular Dynamics/Atomistic Simulations
   - [ ] Coarse Grained Molecular Dynamics
   - [ ] Continumm 
   - [ ] Other
