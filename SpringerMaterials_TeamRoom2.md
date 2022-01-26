@@ -35,7 +35,9 @@ The database is a comprehensive resource of curated data covering 3,000 properti
 
 * what is the licence of the platform it self? of the data on it?
 
-Springer Nature's expansive journal portfolio consists of more than 3,000 journals, including fully open access and hybrid titles, from the notable Springer, Nature Research, Palgrave Macmillan and Adis imprints. We strive to offer tailored subscription models to fit your institution’s journal content needs. Continue reading to explore a variety of flexible licensing options available to you.
+Access to Springer Nature content can be available through a Springer Nature license. A Springer Nature licence is available to academic institutions, governments and corporations and is purchased by everyone from small colleges on a single site to global organizations with multiple locations. Tailored licensing options are based on the population served and its research intensity.  Continue reading to explore the options best suited for your organization and it's patrons.
+
+Cited from: https://www.springernature.com/gp/librarians/licensing
  
  ### Description:
 > This is a comprehensive database of data on materials, including content from many different disciplines such as materials science, physics, inorganic chemistry, and engineering.
