@@ -31,6 +31,10 @@
 * what is the licence of the platform it self? of the data on it?
  
  ### Description:
-> This is a comprehensive database of data on materials, including content from other disciplines such as materials science, physics, inorganic chemistry, and engineering.
+> This is a comprehensive database of data on materials, including content from many different disciplines such as materials science, physics, inorganic chemistry, and engineering.
+
+The platform is aimed at academic and government institutions with a research focus in materials science, physics, chemistry and engineering, and supports the research and development of corporate organizations in bulk and fine chemical manufacturing, petroleum and petrochemicals, semiconductors and electronics materials, optical metals, ceramics , polymer synthesis and processing, and materials for fuel and energy applications.
+
+Cited from: https://www.springernature.com/gp/librarians/products/databases-solutions/springermaterials
 
 >give information about the quality of the data in the repository. Is it validated? would you please use it in your mission critical applications as is? Disscuss.
