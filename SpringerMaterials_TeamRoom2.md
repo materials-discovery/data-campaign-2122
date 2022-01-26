@@ -25,10 +25,12 @@
 * format of the data:
   - [x] Standard formats
   - [ ] specific formats
- 
+
 * Size of the database:
 * If you use the data from this platform, how are you going to cite it? Is there a requirement on the cite?
 * what is the licence of the platform it self? of the data on it?
+
+Springer Nature's expansive journal portfolio consists of more than 3,000 journals, including fully open access and hybrid titles, from the notable Springer, Nature Research, Palgrave Macmillan and Adis imprints. We strive to offer tailored subscription models to fit your institution’s journal content needs. Continue reading to explore a variety of flexible licensing options available to you.
  
  ### Description:
 > This is a comprehensive database of data on materials, including content from many different disciplines such as materials science, physics, inorganic chemistry, and engineering.
