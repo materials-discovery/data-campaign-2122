@@ -7,15 +7,15 @@
 * website URL: https://materials.springer.com/
 * brief description: 
 * Modelling Data 
-  - [ ] Density Functional Theory (DFT)/ Electronic Models
+  - [x] Density Functional Theory (DFT)/ Electronic Models
   - [x] Molecular Dynamics/Atomistic Simulations
   - [ ] Coarse Grained Molecular Dynamics
   - [ ] Continumm 
   - [ ] Other
-        - if other specify: ...
+        - if other specify: 
 * Experimental Data: 
   * Describe the classes and types of materials covered. 
-    *  ....
+    *  metal, non-metal, and compounds.
 * Access rights: 
   - [x] Free to all 
   - [ ] Commercial 
