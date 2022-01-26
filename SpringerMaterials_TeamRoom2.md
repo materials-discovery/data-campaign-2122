@@ -25,7 +25,7 @@
 * format of the data:
   - [x] Standard formats
   - [ ] specific formats
-
+Interactive chart, graph.
 * Size of the database: 
 
 The database is a comprehensive resource of curated data covering 3,000 properties and 290,000 materials on one platform.
