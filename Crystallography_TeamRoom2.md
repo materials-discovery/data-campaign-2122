@@ -2,7 +2,7 @@
 
 ## Collect and analyse existing materials data repositories and e-science platforms 
 
-### Template 
+### Group 2 
 * website name: Crystallography Open Database
 * website URL: http://crystallography.net
 * brief description: Open-access collection of crystal structures of organic, inorganic, metal-organics compounds and minerals, excluding biopolymers.
