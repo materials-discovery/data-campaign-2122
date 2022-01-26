@@ -32,7 +32,7 @@ The database is a comprehensive resource of curated data covering 3,000 properti
  
 * If you use the data from this platform, how are you going to cite it? Is there a requirement on the cite?
 
-Citations for SpringerMaterials content can be easily exported in multiple standard formats
+Citations for SpringerMaterials content can be easily exported in multiple standard formats.
 
 
 * what is the licence of the platform it self? of the data on it?
