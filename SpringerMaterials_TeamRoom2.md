@@ -27,9 +27,11 @@
   - [ ] specific formats
 
 * Size of the database: 
+
 The database is a comprehensive resource of curated data covering 3,000 properties and 290,000 materials on one platform.
  
 * If you use the data from this platform, how are you going to cite it? Is there a requirement on the cite?
+
 Citations for SpringerMaterials content can be easily exported in multiple standard formats
 
 
