@@ -31,12 +31,6 @@
 * what is the licence of the platform it self? of the data on it?
  
  ### Description:
-> Please give an overview summary of the repository which you can present to the class.
-
-SpringerMaterials at materials.springer.com is a comprehensive database for identifying material properties which covers data from materials science, physics, physical and inorganic chemistry, engineering and other related fields. 
-
-The latest addition to the platform, SpringerMaterials Interactive, is a set of advanced functionalities for visualizing and analyzing data. Examples of these functionalities include interactive graphs, dynamic data tables, and side-by- side comparisons of materials/properties.
-
-The platform is aimed at academic and governmental institutions with a research focus on materials science, physics, chemistry, and engineering, and is supporting research and development in corporate organizations in the fields of bulk and fine chemical manufacturing, petroleum and petrochemicals, semiconductors and electronic materials, optical metals, ceramics, polymer synthesis and processing, and materials for fuels and energy application.
+> This is a comprehensive database of data on materials, including content from other disciplines such as materials science, physics, inorganic chemistry, and engineering.
 
 >give information about the quality of the data in the repository. Is it validated? would you please use it in your mission critical applications as is? Disscuss.
