@@ -25,8 +25,9 @@
  
  
  ### Description:
-The Crystallography Open Database (COD) is a database of crystal structures. Unlike similar crystallography databases, the database is entirely open-access, with registered users able to contribute published and unpublished structures of small molecules and small to medium sized unit cell crystals to the database. As of Jan 2022, the database has more than 480,000 entries. The database has various contributors, and contains Crystallographic Information Files as defined by the International Union of Crystallography (IUCr). There are currently five sites worldwide that mirror this database. The 3D structures of compounds can be converted to input files for 3D printers. 
-* I copied that description from Wikipedia <https://en.wikipedia.org/wiki/Crystallography_Open_Database>
+The Crystallography Open Database (COD) is a database of crystal structures. Unlike similar crystallography databases, the database is entirely open-access, with registered users able to contribute published and unpublished structures of small molecules and small to medium sized unit cell crystals to the database. As of Jan 2022, the database has more than 480,000 entries. The database has various contributors, and contains Crystallographic Information Files as defined by the International Union of Crystallography (IUCr). There are currently five sites worldwide that mirror this database. To find a required material, users can browse by the journal of publication or search by structure features. The 3D structures of compounds are able to previewed on the website and converted to input files for 3D printers. 
+
+* I copied that description from Wikipedia <https://en.wikipedia.org/wiki/Crystallography_Open_Database>, and modified further.
 
 
 
