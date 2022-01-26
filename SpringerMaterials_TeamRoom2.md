@@ -17,11 +17,11 @@
   * Describe the classes and types of materials covered. 
     *  ....
 * Access rights: 
-  - [ ] Free to all 
+  - [x] Free to all 
   - [ ] Commercial 
 * where is the data coming from:  
   - [ ] any one can upload data 
-  - [ ] provided by repository or platform owners
+  - [x] provided by repository or platform owners
  
  
  ### Description:
