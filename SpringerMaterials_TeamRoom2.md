@@ -22,6 +22,9 @@
 * where is the data coming from:  
   - [ ] any one can upload data 
   - [x] provided by repository or platform owners
+* format of the data:
+  - [ ] Standard formats
+  - [ ] specific formats
  
  
  ### Description:
