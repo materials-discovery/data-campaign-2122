@@ -7,8 +7,8 @@
 
 
 ### Template (copy&paste to new file and fill up) 
-* website name: 
-* website URL: 
+* website name: Zenodo
+* website URL: https://zenodo.org
 * brief description: 
 * Modelling Data 
   - [ ] Molecular Dynamics
