@@ -15,7 +15,7 @@
         - if other specify: 
 * Experimental Data: 
   * Describe the classes and types of materials covered. 
-    *  metal, non-metal, and compounds.
+    *  metal, non-metal, compounds, and polymers.
 * Access rights: 
   - [x] Free to all 
   - [ ] Commercial 
