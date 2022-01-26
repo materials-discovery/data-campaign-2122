@@ -14,8 +14,7 @@
   - [ ] Other
         - if other specify: ...
 * Experimental Data: 
-  * Describe the classes and types of materials covered. 
-    *  Organic, inorganic, metal-organics compounds and minerals.
+   *  Organic, inorganic, metal-organics compounds and minerals.
 * Access rights: 
   - [X] Free to all 
   - [ ] Commercial 
