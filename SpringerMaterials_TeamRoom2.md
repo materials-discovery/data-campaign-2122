@@ -23,8 +23,9 @@
   - [ ] any one can upload data 
   - [x] provided by repository or platform owners
 * format of the data:
-  - [ ] Standard formats
+  - [x] Standard formats
   - [ ] specific formats
+ 
 * Size of the database:
 * If you use the data from this platform, how are you going to cite it? Is there a requirement on the cite?
 * what is the licence of the platform it self? of the data on it?
