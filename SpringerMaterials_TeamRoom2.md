@@ -15,7 +15,7 @@
         - if other specify: 
 * Experimental Data: 
   * Describe the classes and types of materials covered. 
-    *  metal, non-metal, compounds, and polymers.
+    * Metal, non-metal, compounds, and polymers.
 * Access rights: 
   - [x] Free to all 
   - [ ] Commercial 
@@ -25,7 +25,7 @@
 * format of the data:
   - [x] Standard formats
   - [ ] specific formats
-Interactive crystal structures, data tables, and phase diagrams
+    * Interactive crystal structures, data tables, and phase diagrams
 * Size of the database: 
 
 The database is a comprehensive resource of curated data covering 3,000 properties and 290,000 materials on one platform.
