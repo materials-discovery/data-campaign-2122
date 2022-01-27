@@ -22,10 +22,10 @@
 * Experimental Data: 
   * Describe the classes and types of materials covered. 
 * Access rights: 
-  - [ ] Free to all 
+  - [x] Free to all 
   - [ ] Commercial 
 * where is the data coming from:  
-  - [ ] any one can upload data 
+  - [x] any one can upload data 
   - [ ] provided by repository or platform owners
 * Format of the data:
   - [ ] Standard formats
