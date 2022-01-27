@@ -32,6 +32,19 @@
   - [ ] specific formats
 * Size of the database: _....._ 
 * If you use data from this platfor, how are you going to cite it? is there a requirement on the cite? 
+  It required the data user to copy the following BibTeX as the citation:
+  
+  @misc{https://doi.org/10.25495/7gxk-rd71,
+  doi = {10.25495/7GXK-RD71},
+  url = {https://www.zenodo.org/},
+  author = {{European Organization For Nuclear Research} and {OpenAIRE}},
+  keywords = {FOS: Physical sciences, Publication, Dataset},
+  language = {en},
+  title = {Zenodo},
+  publisher = {CERN},
+  year = {2013}
+}
+  
 * what is the license of the platofrm it self? of the data on it? 
  
  ### Description:
