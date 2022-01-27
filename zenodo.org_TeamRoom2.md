@@ -29,7 +29,8 @@
   - [ ] provided by repository or platform owners
 * Format of the data:
   - [ ] Standard formats
-  - [ ] specific formats
+  - [x] specific formats
+  * Code.
 * Size of the database: _....._ 
 * If you use data from this platfor, how are you going to cite it? is there a requirement on the cite? 
   It required the data user to copy the following BibTeX as the citation:
