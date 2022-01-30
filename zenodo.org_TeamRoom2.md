@@ -47,6 +47,7 @@
 }
   
 * what is the license of the platofrm it self? of the data on it? 
+  * Users must specify a license for all publicly available files. Licenses for closed access files may be specified in the description field.
  
  ### Description:
 > Please give an overview summary of the repository which you can present to the class. 
