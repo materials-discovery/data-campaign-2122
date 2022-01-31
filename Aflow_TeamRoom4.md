@@ -5,11 +5,11 @@
 * website URL: http://aflowlib.org/
 * brief description: 
 * Modelling Data 
-  - [ ] Density Functional Theory (DFT)/ Electronic Models
+  - [X] Density Functional Theory (DFT)/ Electronic Models
   - [ ] Molecular Dynamics/Atomistic Simulations
   - [ ] Coarse Grained Molecular Dynamics
   - [ ] Continumm 
-  - [ ] Other
+  - [X] Other
         - if other specify: ...
 * Experimental Data: 
   * Describe the classes and types of materials covered. 
@@ -19,7 +19,7 @@
   - [ ] Commercial 
 * where is the data coming from:  
   - [ ] any one can upload data 
-  - [ ] provided by repository or platform owners
+  - [X] provided by repository or platform owners
  
  
  ### Description:
