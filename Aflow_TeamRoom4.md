@@ -25,7 +25,7 @@ QHA -Quasi-Harmonic Approximation
 
 * Experimental Data: 
   * Describe the classes and types of materials covered. 
-    *  ....
+    *  Material of crystal structure.
 * Access rights: 
   - [X] Free to all 
   - [ ] Commercial 
