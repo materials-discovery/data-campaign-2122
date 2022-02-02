@@ -21,6 +21,7 @@
         - if other specify: 
 * Experimental Data: 
   * Describe the classes and types of materials covered. 
+    * Organic, inorganic, metal, metal-organics compounds.
 * Access rights: 
   - [x] Free to all 
   - [ ] Commercial 
@@ -30,7 +31,7 @@
 * Format of the data:
   - [ ] Standard formats
   - [x] specific formats
-  * Pdf, Jpg, Png, Html, Zip, Xlsx, Txt, Docx, Csv, Xml.
+  * Pdf, jpg, png, html, zip, xlsx, txt, docx, csv, xml.
 * Size of the database: _....._ 
 * If you use data from this platfor, how are you going to cite it? is there a requirement on the cite? 
   It required the data user to copy the following BibTeX as the citation:
