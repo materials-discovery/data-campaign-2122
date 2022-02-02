@@ -11,7 +11,7 @@
 ### Template (copy&paste to new file and fill up) 
 * website name: Zenodo
 * website URL: https://zenodo.org
-* brief description: 
+* brief description: Zenodo is an open dissemination research data repository for the preservation and making available of research, educational and informational content.
 * Modelling Data 
   - [x] Molecular Dynamics
   - [x] Density Functional Theory (DFT)
@@ -32,7 +32,7 @@
   - [ ] Standard formats
   - [x] specific formats
   * Pdf, jpg, png, html, zip, xlsx, txt, docx, csv, xml.
-* Size of the database: _....._ 
+
 * If you use data from this platfor, how are you going to cite it? is there a requirement on the cite? 
   It required the data user to copy the following BibTeX as the citation:
   
@@ -51,9 +51,6 @@
   * Users must specify a license for all publicly available files. Licenses for closed access files may be specified in the description field.
  
  ### Description:
-> Please give an overview summary of the repository which you can present to the class. 
-
-
-> give informstion about the quality of the data in the repository. Is it validated? would you use it in your mission critical applications as is? Discuss. 
+> Zenodo is a general-purpose open-access repository developed under the European OpenAIRE program and operated by CERN. It allows researchers to deposit research papers, data sets, research software, reports, and any other research related digital artefacts. For each submission, a persistent digital object identifier (DOI) is minted, which makes the stored items easily citeable.
 
 
