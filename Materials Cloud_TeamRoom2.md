@@ -36,5 +36,5 @@ Materials Clould is a open-science platform for sharing resources for computatio
 * 3 Tools for data analytics, and pre-/post-processing
 * 4 Educational materials. 
 > Date can be cited and archived persistently to provide a comprehensive embodiment of all caculations, codes and data in the form of graphs allow retracing and reproducing results.
-> 
+
 > Talirz, L., Kumbhar, S., Passaro, E. et al. Materials Cloud, a platform for open computational science. Sci Data 7, 299 (2020). https://doi.org/10.1038/s41597-020-00637-5
