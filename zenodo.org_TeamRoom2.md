@@ -30,7 +30,7 @@
 * Format of the data:
   - [ ] Standard formats
   - [x] specific formats
-  * Code.
+  * Code, software, dataset, taxonomic treatment.
 * Size of the database: _....._ 
 * If you use data from this platfor, how are you going to cite it? is there a requirement on the cite? 
   It required the data user to copy the following BibTeX as the citation:
