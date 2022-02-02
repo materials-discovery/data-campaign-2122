@@ -13,8 +13,8 @@
 * website URL: https://zenodo.org
 * brief description: 
 * Modelling Data 
-  - [ ] Molecular Dynamics
-  - [ ] Density Functional Theory (DFT)
+  - [x] Molecular Dynamics
+  - [x] Density Functional Theory (DFT)
   - [ ] Coarse Grained Molecular Dynamics
   - [ ] Continum
   - [ ] Other
@@ -30,7 +30,7 @@
 * Format of the data:
   - [ ] Standard formats
   - [x] specific formats
-  * Code, software, dataset, taxonomic treatment.
+  * Pdf, Jpg, Png, Html, Zip, Xlsx, Txt, Docx, Csv, Xml.
 * Size of the database: _....._ 
 * If you use data from this platfor, how are you going to cite it? is there a requirement on the cite? 
   It required the data user to copy the following BibTeX as the citation:
