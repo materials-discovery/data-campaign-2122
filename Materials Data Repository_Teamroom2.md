@@ -7,9 +7,9 @@
 
 
 ### Template (copy&paste to new file and fill up) 
-* website name: 
-* website URL: 
-* brief description: 
+* website name: Materials Data Repository(MDR)
+* website URL: https://dice.nims.go.jp/services/MDR/en/
+* brief description: The Materials Data Repository (MDR) is a repository to collect and host papers and presentations, and materials data, providing them for use in further materials research and materials informatics.
 * Modelling Data 
   - [ ] Molecular Dynamics
   - [ ] Density Functional Theory (DFT)
