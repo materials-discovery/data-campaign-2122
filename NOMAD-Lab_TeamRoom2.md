@@ -30,6 +30,7 @@
   - [ ] specific formats
 
 > Citing the data with a DOI： You may curate your data and create datasets to give them a hierarchical structure. These functions are available from the Your data page by selecting and editing data. You can assign a DOI for your datasets. The DOIs are provided in cooperation with Humboldt Universities library and will be resolved through the usual DOI handle systems.
+> 
 > Data can be downloaded and used under the CC-BY-4.0 license. 
 
 
