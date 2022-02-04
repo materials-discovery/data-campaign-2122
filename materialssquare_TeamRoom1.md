@@ -31,4 +31,9 @@
 
 > Please give an overview summary of the repository which you can present to the class. 
 
-> **Materials Square** is a cloud-based web platform for materials simulation. The platform uses a powerful, free 3D atomic and molecular structure modelling interface and provides simulation function based on density functional theory (DFT) and molecular dynamics(MD), supporting most data formats. In addition, it features a thermodynamic-database-based phase diagramming function and machine-learning-based material property prediction. Users only pay for the use of the cloud server for simulations. Each phase diagram generated from a commercial database costs $1~2. It is worth noting that its blog presents many material simulation tips and application examples.
+> **Materials Square** is a cloud-based web platform for materials simulation from Korea. The platform uses a powerful, free 3D atomic and molecular structure modelling interface and provides simulation function based on density functional theory (DFT) and molecular dynamics(MD), supporting most data formats. In addition, it features a thermodynamic-database-based phase diagramming function and machine-learning-based material property prediction. Users only pay for the use of the cloud server for simulations. Each phase diagram generated from a commercial database costs $1~2. It is worth noting that its blog presents many material simulation tips and application examples.
+> ### References
+> 1. https://www.materialssquare.com/
+> 2. https://www.materialssquare.com/openresearch
+> 3. https://www.materialssquare.com/docs/en/about
+> 4. https://www.materialssquare.com/pricing
