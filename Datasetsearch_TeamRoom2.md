@@ -15,8 +15,8 @@
   - [ ] Density Functional Theory (DFT)
   - [ ] Coarse Grained Molecular Dynamics
   - [ ] Continum
-  - [ ] Other
-        - if other specify: 
+  - [x] Other
+        
 * Experimental Data: 
   *![image](https://user-images.githubusercontent.com/98064510/152433184-35229a41-2ad3-4488-8572-93154c6e76c8.png)
 
@@ -24,17 +24,17 @@
   - [ ] Free to all 
   - [x] Commercial 
 * where is the data coming from:  
-  - [ ] any one can upload data 
+  - [x] any one can upload data 
   - [ ] provided by repository or platform owners
 * Format of the data:
   - [x] Standard formats
   - [ ] specific formats
 * Size of the database: 25 million
-* If you use data from this platfor, how are you going to cite it? is there a requirement on the cite? 
-* what is the license of the platofrm it self? of the data on it? 
+* The Google source is required to be cited.
+* The license is not specfied.
  
  ### Description:
-> Please give an overview summary of the repository which you can present to the class. 
+> Dataset Search is a search engine for datasets. Using a simple keyword search, users can discover datasets hosted in thousands of repositories across the Web. Dataset Search's mission is to: foster a data sharing ecosystem that will encourage data publishers to follow best practices for data storage and publication or give scientists a way to show the impact of their work through citation of datasets that they have produced
 
 
 > give informstion about the quality of the data in the repository. Is it validated? would you use it in your mission critical applications as is? Discuss. 
