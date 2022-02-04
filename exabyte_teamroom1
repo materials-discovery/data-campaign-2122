@@ -3,7 +3,7 @@
 * website URL: 
 * brief description: 
 * Modelling Data 
-  - [ ] Density Functional Theory (DFT)/ Electronic Models
+  - [X] Density Functional Theory (DFT)/ Electronic Models
   - [X] Molecular Dynamics/Atomistic Simulations
   - [ ] Coarse Grained Molecular Dynamics
   - [ ] Continumm 
@@ -14,10 +14,10 @@
     *  ....
 * Access rights: 
   - [ ] Free to all 
-  - [ ] Commercial 
+  - [X] Commercial 
 * where is the data coming from:  
   - [ ] any one can upload data 
-  - [ ] provided by repository or platform owners
+  - [X] provided by repository or platform owners
  
  
  ### Description:
