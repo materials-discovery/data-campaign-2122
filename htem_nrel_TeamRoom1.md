@@ -35,3 +35,10 @@
  ### Description:
 
 > Please give an overview summary of the repository which you can present to the class. 
+
+
+> **HTEM DB** is a database of high-quality thin-film materials from the United States, which was developed at **National Renewable Energy Laboratory (NREL)**. **NREL** is a national laboratory of the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy and is operated by the Alliance for Sustainable Energy , LLC. The database stores a large number of characterization data for thin film samples synthesized by physical vapor deposition from a variety of materials.
+> 
+> The data contained **HTEM** data is analyzed for publication purposes using **COMBIgor** software package. **COMBIgor** is an open-source software package written in the commercial Igor Pro environment and designed to offer a systematic approach to loading, storing, processing, and visualizing **HTEM** data. Experimental data curation efforts were funded by U.S. Department of Energy (US DOE), Office of Science, Basic Energy Science Program, as a part of Energy Frontier Research Centers “Center for Next Generation of Material by Design: Incorporating Metastability” (FY14-FY20) and “Center for Inverse Design” (FY10-FY13). Anyone is allowed full access to all publicly available sample data from the **HTEM DB** for visualisation and analysis by utilizing the API, but it needs to be explicitly referenced in their study.
+> ### References
+> 1. http://htem.nrel.gov
