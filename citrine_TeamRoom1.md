@@ -12,7 +12,7 @@
   - [ ] Coarse Grained Molecular Dynamics
   - [ ] Continumm 
   - [x] Other
-        - "single-crystal automated refinement" (SCAR)
+       - "single-crystal automated refinement" (SCAR)
 * Experimental Data: 
   * Describe the classes and types of materials covered. 
     * **functional materials**, such as thermoelectric materials and organic semiconductors
@@ -32,3 +32,7 @@
 > Please give an overview summary of the repository which you can present to the class. 
 
 > **Citrine Informatics** is a materials informatics (MI) startup. On August 5, 2020, it announced the public launch of the **Citrine Platform**, which is an enterprise-oriented AI and data platform that helps materials and chemicals businesses accelerate product development, rapidly respond to customer requests, and guide R&D strategies through materials-specific AI and smart data infrastructure. Its advantage lies in high availability and collaboration enabled by an intuitive graphical user interface. The research team can build a model together and use its results to suggest which candidate materials should be synthesized and tested. When using the platform, materials scientists can build, run, and analyze machine learning models without writing a single line of code with clear workflows and code-free AI models; data scientists can customize every aspect of machine learning workflow with built-in Python APIs. This company trains enterprise customers to use the **Citrine Platform** autonomously by customizing training content, so that they can continuously get the most business value from the technology.
+> ### References
+> 1. https://www.luxresearchinc.com/blog/3-ways-to-form-a-materials-informatics-strategy
+> 2. https://www.uktech.news/technology-news/citrine-informatics-announces-public-launch-of-the-citrine-platform
+> 3. https://citrine.io/product/what-is-the-citrine-platform/user-interface-and-workflows/
