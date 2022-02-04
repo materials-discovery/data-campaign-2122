@@ -11,8 +11,8 @@
   - [ ] Coarse Grained Molecular Dynamics
   - [ ] Continumm 
   - [X] Other
-        - POCC: Partial Occupations
-        - CCE: Coordination Corrected Enthalpies
+       - POCC: Partial Occupations
+       - CCE: Coordination Corrected Enthalpies
 * Experimental Data: 
   * Describe the classes and types of materials covered. 
     * Over 3 million **materials compounds** with over 700 million **calculated properties**
