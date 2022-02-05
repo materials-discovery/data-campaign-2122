@@ -1,7 +1,7 @@
 Template (copy and fill) 
-* website name: 
-* website URL: 
-* brief description: 
+* website name: Exabyte
+* website URL: https://exabyte.io/
+* brief description: Exabyte.io is a cloud-native digital materials R&D platform. Design structures, run simulations, and build models online alongside scientists on your team and worldwide.
 * Modelling Data 
   - [X] Density Functional Theory (DFT)/ Electronic Models
   - [X] Molecular Dynamics/Atomistic Simulations
