@@ -1,0 +1,36 @@
+# Assignment in DDMD class - NSCI0028/Term2/2022
+
+## Collect and analyse existing materials data repositories and e-science platforms 
+* website name: Materials Project
+* website URL: https://materialsproject.org/
+* brief description: Materials Project provides open web-based access to computed information on known and predicted materials as well as powerful analysis tools to inspire and design novel materials.
+* Modelling Data 
+  - [X] Density Functional Theory (DFT)/ Electronic Models
+  - [X] Molecular Dynamics/Atomistic Simulations
+  - [ ] Coarse Grained Molecular Dynamics
+  - [ ] Continumm 
+  - [X] Other
+        - if other specify: 
+SYM (symmetry)
+XAS Spectra
+Pourbaix diagrams
+APL - Array Processing Language
+
+* Experimental Data: 
+  * Describe the classes and types of materials covered. 
+  144,595 INORGANIC COMPOUNDS, 76,240 BANDSTRUCTURES, 63,876 MOLECULES, 530,243 NANOPOROUS MATERIALS, 14,072 ELASTIC TENSORS,  3,402 PIEZOELECTRIC TENSORS, 4,730 INTERCALATION ELECTRODES,  16,128 CONVERSION ELECTRODES.
+    *  Material of crystal structure.
+* Access rights: 
+  - [X] Free to all 
+  - [ ] Commercial 
+* Where is the data coming from:  
+  - [ ] any one can upload data 
+  - [X] provided by repository or platform owners
+ 
+ 
+ ### Description:
+software: By computing properties of all known materials, the Materials Project aims to remove guesswork from materials design in a variety of applications. Experimental research can be targeted to the most promising compounds from computational data sets. 
+supercomputers: Supercomputing clusters at national laboratories provide the infrastructure that enables our computations, data, and algorithms to run at unparalleled speed. 
+screening: Computational materials science is now powerful enough that it can predict many properties of materials before those materials are ever synthesized in the lab. 
+
+
