@@ -29,5 +29,9 @@
  
  ### Description:
 > Please give an overview summary of the repository which you can present to the class. 
-> 
+> Springermaterials is one of the largest material science databases in the world. It can provide relevant information of more than 290000 materials and more than 3000 properties through a single platform, including integrated multi-source data from all major topics in the fields of material science, chemistry, physics and engineering. In addition to providing rich, reliable and critically evaluated data, springermaterials also has the following characteristics:
+> * Time saving interactive function
+Tools such as interactive crystal structure, data sheet, phase diagram and rapid data export help to save valuable time and provide in-depth analysis of material structure and properties.
+> * Search options related to Materials Science
+A variety of search tools help you quickly find material property data.
 > 
