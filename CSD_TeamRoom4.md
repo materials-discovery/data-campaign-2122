@@ -5,23 +5,22 @@
 ### Template (copy and fill) 
 * website name: The Cambridge Structural Database (CSD)
 * website URL: https://www.ccdc.cam.ac.uk/solutions/csd-core/components/csd/
-* brief description: 
+* brief description: The CSD is a repository for small-molecue organic and metal-organinc crystals. It was maintained by Cambridge University. In 1965, CSD was established by a research group led by Olga Kennard. Today there are over 1 million structures in the CSD.
 * Modelling Data 
   - [ ] Density Functional Theory (DFT)/ Electronic Models
   - [ ] Molecular Dynamics/Atomistic Simulations
   - [ ] Coarse Grained Molecular Dynamics
   - [ ] Continumm 
-  - [ ] Other
-        - if other specify: ...
+  - [X] Other
+        - if other specify: only experimental data obtained through X-ray and neutron diffraction are stored in the CSD.
 * Experimental Data: 
-  * Describe the classes and types of materials covered. 
-    *  ....
+  *  X-ray and neutron diffraction analyses of crystals.
 * Access rights: 
-  - [ ] Free to all 
+  - [X] Free to all 
   - [ ] Commercial 
 * where is the data coming from:  
   - [ ] any one can upload data 
-  - [ ] provided by repository or platform owners
+  - [X] provided by repository or platform owners
  
  
  ### Description:
