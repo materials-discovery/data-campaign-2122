@@ -7,7 +7,7 @@
 * website URL: https://openmaterialsdb.se/
 * brief description: 
 * Modelling Data 
-  - [ ] Density Functional Theory (DFT)/ Electronic Models
+  - [X] Density Functional Theory (DFT)/ Electronic Models
   - [ ] Molecular Dynamics/Atomistic Simulations
   - [X] Coarse Grained Molecular Dynamics
   - [ ] Continumm 
@@ -15,7 +15,7 @@
         - if other specify: ...
 * Experimental Data: 
   * Describe the classes and types of materials covered. 
-    *  ....
+    Crystallography
 * Access rights: 
   - [X] Free to all 
   - [ ] Commercial 
