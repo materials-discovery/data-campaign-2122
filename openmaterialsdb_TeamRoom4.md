@@ -5,7 +5,7 @@
 ### Template (copy and fill) 
 * website name: Open Materials Database
 * website URL: https://openmaterialsdb.se/
-* brief description: 
+* brief description: The Open Materials Database is a open-access database storing data created by computational materials design researchers. Information on crystal structures, unit cell length and angles, formation energy can be retrived from the database. Anyone can request to publish their data on the database using the High-Throughput Toolkit.
 * Modelling Data 
   - [ ] Density Functional Theory (DFT)/ Electronic Models
   - [ ] Molecular Dynamics/Atomistic Simulations
