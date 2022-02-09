@@ -24,4 +24,4 @@
  
  
  ### Description:
-> Please give an overview summary of the repository which you can present to the class. 
+> The Cambridge Structural Database is one of the first numerical scientific comprehensive database developed and maintained by the Cambridge crystallographic data center, established in 1965. The database contains high quality crystal structures data from published literature, X-ray and neutron diffraction analyses of over one million organic and metal-organic experimental structures. The database is continuously update the existing entries and make extensive improvement by groups of expert in-house scientific editors, enabling the SCD to cover the latest research. 
