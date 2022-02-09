@@ -16,10 +16,10 @@
 
 * Experimental Data: 
   * Describe the classes and types of materials covered. 
-*  Entire information of inorganic crystalline compounds
-*  3D visualization
-*  Theoretical structures
-*  Materials properties
+  *  Entire information of inorganic crystalline compounds
+  *  3D visualization
+  *  Theoretical structures
+  *  Materials properties
 
 * Access rights: 
   - [ ] Free to all 
