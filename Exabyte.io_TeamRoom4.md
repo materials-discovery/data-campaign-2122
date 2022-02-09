@@ -1,9 +1,9 @@
 # Assignment in DDMD class - NSCI0028/Term2/2022
 
 ## Collect and analyse existing materials data repositories and e-science platforms 
-* website name: Exabyte.io
-* website URL: https://exabyte.io/
-* brief description: Exabyte.io is a platform for materials modelling on the cloud. It allows the discovery and design of digital Materials R&D by providing simulations, large-scale data analytics, and machine learning.
+* Website Name: Exabyte.io
+* Website URL: https://exabyte.io/
+* Brief Description: Exabyte.io is a platform for materials modelling on the cloud. It allows the discovery and design of digital Materials R&D by providing simulations, large-scale data analytics, and machine learning.
 * Modelling Data 
   - [X] Density Functional Theory (DFT)/ Electronic Models
   - [X] Molecular Dynamics/Atomistic Simulations
@@ -21,10 +21,10 @@
     *  Vibrational properties computation of materials (Zero point energy, phonons, phonons on grid)
     *  Thermodynamic properties computation of materials (Surface energy)
     *  Chemical properties computation of materials (Energy reaction profile and activation barrier)
-* Access rights: 
+* Access Rights: 
   - [X] Free to all 
   - [X] Commercial 
-* Where is the data coming from:  
+* Where Is The Data Coming From:  
   - [X] any one can upload data 
   - [X] provided by repository or platform owners
   
