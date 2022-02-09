@@ -7,12 +7,12 @@
 * website URL: https://openmaterialsdb.se/
 * brief description: 
 * Modelling Data 
-  - [X] Density Functional Theory (DFT)/ Electronic Models
+  - [ ] Density Functional Theory (DFT)/ Electronic Models
   - [ ] Molecular Dynamics/Atomistic Simulations
-  - [X] Coarse Grained Molecular Dynamics
+  - [ ] Coarse Grained Molecular Dynamics
   - [ ] Continumm 
-  - [ ] Other
-        - if other specify: ...
+  - [X] Other
+        - HTTK programing framework: High-Throughput Toolkit (httk) is database-centric high-throughput methodology, aims at atomistic calculations. It has the function of calculation, result analyzing and outcome storage.
 * Experimental Data: 
   * Describe the classes and types of materials covered. 
     Materials including crystal structure
