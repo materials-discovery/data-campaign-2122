@@ -3,9 +3,9 @@
 ## Collect and analyse existing materials data repositories and e-science platforms 
 
 ### Template (copy and fill) 
-* website name: The Open Quantum Materials Database (OQMD)
-* website URL: http://oqmd.org/
-* brief description: The OQMD is a open-access database created and maintained by Northwestern university. The DFT based database containes thermodynamical and structural properties of over 1 millon materials.
+* Website name: The Open Quantum Materials Database (OQMD)
+* Website URL: http://oqmd.org/
+* Brief description: The OQMD is a open-access database created and maintained by Northwestern university. The DFT based database containes thermodynamical and structural properties of over 1 millon materials.
 * Modelling Data 
   - [X] Density Functional Theory (DFT)/ Electronic Models
   - [ ] Molecular Dynamics/Atomistic Simulations
@@ -19,7 +19,7 @@
 * Access rights: 
   - [X] Free to all 
   - [ ] Commercial 
-* where is the data coming from:  
+* Where is the data coming from:  
   - [ ] any one can upload data 
   - [X] provided by repository or platform owners
  
