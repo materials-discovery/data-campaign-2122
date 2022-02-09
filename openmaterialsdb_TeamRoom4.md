@@ -15,7 +15,7 @@
         - if other specify: ...
 * Experimental Data: 
   * Describe the classes and types of materials covered. 
-    Crystallography
+    Materials including crystal structure
 * Access rights: 
   - [X] Free to all 
   - [ ] Commercial 
@@ -25,4 +25,4 @@
  
  
  ### Description:
- Open Materials Database is database free for everyne providing materials properties by people who work in computational materials design research. This database is mainly contributed by Rickard Armiento at Theoretical Physics at Linköping University.
+Open Materials Database is a database free for everyne providing properties information of different materials by people who work in computational materials design research. This database is contributed by Rickard Armiento at Theoretical Physics at Linköping University and other contributors. 
