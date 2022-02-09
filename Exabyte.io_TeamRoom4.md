@@ -9,7 +9,7 @@
   - [X] Molecular Dynamics/Atomistic Simulations
   - [ ] Coarse Grained Molecular Dynamics
   - [ ] Continumm 
-  - [ ] Other
+  - [X] Other
         - if other specify: Hartree-Fock Theory, Quantum Monte Carlo, semi-empirical Quantum Chemistry methods (1)(2)
 * Experimental Data:
   * For ML (3):
